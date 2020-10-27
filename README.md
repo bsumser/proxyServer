@@ -5,6 +5,7 @@ Development of proxy server cache
 - [Dependencies](#dependencies)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Project Specifications](#projectSpecs)
 ---
 ## Description
 
@@ -19,3 +20,8 @@ Development of proxy server cache
 
 ---
 ## Usage
+
+---
+## Project Specifications
+
+---
