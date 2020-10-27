@@ -38,7 +38,7 @@ the proxy server. In other words, the client requests the objects via the proxy 
 will forward the client’s request to the web server. The web server will then generate a response
 message and deliver it to the proxy server, which in turn sends it to the client.
 
-![Graph](img/graph.png)
+![Graph](img/graph.PNG)
 
 ### Code
 Below you will find the skeleton code for the client. You are to complete the skeleton code. The places
