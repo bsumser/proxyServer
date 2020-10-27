@@ -5,7 +5,6 @@ Development of proxy server cache
 - [Dependencies](#dependencies)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Turn-by-turn Algorithm](#algorithm)
 ---
 ## Description
 
@@ -17,3 +16,6 @@ Development of proxy server cache
 
 ---
 ## Installation
+
+---
+## Usage
